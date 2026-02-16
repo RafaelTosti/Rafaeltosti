@@ -170,7 +170,7 @@ Controle de 4 servomotores com Arduino e C++.
 
 <br>
 
-🔗 [Ver Repositório](https://github.com/Rafaeltosti/NOME-DO-REPO)
+🔗 [Ver Repositório](https://github.com/Rafaeltosti/Ailuj)
 
 </td>
 </tr>
