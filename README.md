@@ -2,11 +2,11 @@
 
 **`Estudante de Desenvolvimento de Sistemas | Foco em Backend`**
 
-Me chamo Rafael Tosti e sou estudante do Ensino Médio integrado ao curso Técnico em Desenvolvimento de Sistemas na ETEC, além de cursar Técnico em Redes de Computadores no SENAI.
+Me chamo Rafael Tosti e sou estudante do Ensino Médio integrado ao Técnico em Desenvolvimento de Sistemas na ETEC, além de cursar Técnico em Redes de Computadores no SENAI.
 
-Sou apaixonado por tecnologia e estou sempre buscando evoluir por meio de estudos e projetos práticos. Vejo a programação e a área de redes como ferramentas para transformar ideias em soluções reais, e utilizo este perfil para compartilhar minha evolução e os projetos que desenvolvo ao longo da minha formação.
+Tenho foco em desenvolvimento back-end e na construção de sistemas bem estruturados, aplicando boas práticas de programação e modelagem de banco de dados. Busco evoluir constantemente por meio de estudos e projetos práticos, transformando conhecimento técnico em soluções funcionais.
 
-Estágio em Desenvolvimento Backend, com interesse em evolução para áreas de arquitetura de software.
+Atualmente, procuro oportunidade de estágio em Desenvolvimento Back-end, com interesse em crescimento futuro nas áreas de arquitetura de software e engenharia de sistemas.
 
 ---
 
