@@ -90,39 +90,48 @@ Estágio em Desenvolvimento Backend, com interesse em evolução para áreas de 
 
 ## 🚀 Projetos em Destaque
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<table>
+<tr>
+<td width="50%">
 
-  <div style="border: 1px solid #30363d; border-radius: 10px; padding: 16px; width: 300px; background-color: #161b22;">
-    <h3>📌 Gerador de Escala</h3>
-    <p>Sistema web com login, sessão, cadastro de membros e integração com MySQL.</p>
-    <p><strong>Stack:</strong> HTML, CSS, JS, PHP, MySQL</p>
-    <a href="https://github.com/Rafaeltosti/NOME-DO-REPO" target="_blank">
-      <button style="padding: 8px 12px; border-radius: 6px; border: none; background-color: #238636; color: white; cursor: pointer;">
-        Ver Repositório
-      </button>
-    </a>
-  </div>
+### 📌 Gerador de Escala
+Sistema web com login, sessão e integração com MySQL.
 
-  <div style="border: 1px solid #30363d; border-radius: 10px; padding: 16px; width: 300px; background-color: #161b22;">
-    <h3>🤖 Ailuj - Robô Arduino</h3>
-    <p>Controle de 4 servomotores com Arduino usando potenciômetros e código automatizado.</p>
-    <p><strong>Stack:</strong> C++, Arduino</p>
-    <a href="https://github.com/Rafaeltosti/NOME-DO-REPO" target="_blank">
-      <button style="padding: 8px 12px; border-radius: 6px; border: none; background-color: #238636; color: white; cursor: pointer;">
-        Ver Repositório
-      </button>
-    </a>
-  </div>
+**Stack:**  
+HTML • CSS • JS • PHP • MySQL  
 
-  <div style="border: 1px solid #30363d; border-radius: 10px; padding: 16px; width: 300px; background-color: #161b22;">
-    <h3>🍕 Site Pizzaria</h3>
-    <p>Website institucional com estrutura semântica e organização visual responsiva.</p>
-    <p><strong>Stack:</strong> HTML, CSS, JavaScript</p>
-    <a href="https://github.com/Rafaeltosti/NOME-DO-REPO" target="_blank">
-      <button style="padding: 8px 12px; border-radius: 6px; border: none; background-color: #238636; color: white; cursor: pointer;">
-        Ver Repositório
-      </button>
-    </a>
-  </div>
+🔗 [Ver Repositório](https://github.com/Rafaeltosti/NOME-DO-REPO)
 
-</div>
+</td>
+
+<td width="50%">
+
+### 🤖 Ailuj – Robô Arduino
+Controle de 4 servomotores com Arduino e C++.
+
+**Stack:**  
+C++ • Arduino  
+
+🔗 [Ver Repositório](https://github.com/Rafaeltosti/NOME-DO-REPO)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🍕 Site Pizzaria
+Website institucional com foco em estrutura e layout responsivo.
+
+**Stack:**  
+HTML • CSS • JavaScript  
+
+🔗 [Ver Repositório](https://github.com/Rafaeltosti/NOME-DO-REPO)
+
+</td>
+
+<td width="50%">
+<!-- Espaço para futuro projeto -->
+</td>
+</tr>
+</table>
